@@ -1,0 +1,16 @@
+PODS:
+  - GTSDK (2.4.1.0)
+
+DEPENDENCIES:
+  - GTSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GTSDK
+
+SPEC CHECKSUMS:
+  GTSDK: 574d9067cd7e506dafc664801352a77e8214d1e0
+
+PODFILE CHECKSUM: 46f5cbbb8f57345e69603458dfe4405bb6d0aeaa
+
+COCOAPODS: 1.6.0.beta.2
